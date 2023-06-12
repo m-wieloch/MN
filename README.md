@@ -9,7 +9,7 @@
 - [6](6/sprawozdanie.ipynb)
 - [7](7/sprawozdanie.ipynb)
 - [8](8/sprawozdanie.ipynb)
-- [9]((9/sprawozdanie.ipynb)
+- [9](9/sprawozdanie.ipynb)
 - [10](10/sprawozdanie.ipynb)
 - [11](11/sprawozdanie.ipynb)
 - [12](12/sprawozdanie.ipynb)
